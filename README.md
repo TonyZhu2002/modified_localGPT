@@ -249,9 +249,6 @@ To install a C++ compiler on Windows 10/11, follow these steps:
 
 Follow this [page](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-22-04) to install NVIDIA Drivers.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PromtEngineer/localGPT&type=Date)](https://star-history.com/#PromtEngineer/localGPT&Date)
 
 # Disclaimer
 
